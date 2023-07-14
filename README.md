@@ -4,6 +4,6 @@
 
 ## Local storage saves the appointment information and when the browser is refreshed the appointment information displays in the time block until the information is deleted or revised and saved with the save icon again.  The current time block is highlighted in red, future time blocks are highlighted in green, and past time blocks are highlighted in gray.
 
-## <img src="./assets/Screenshot 2023-07-13 at 5.01.01 PM.png" alt = "Finished Website"/>
+## <img src="./day-planner/assets/Screenshot 2023-07-13 at 5.01.01 PM.png" alt = "Finished Website"/>
 
 ## https://github.com/beffylaureen/day-planner
