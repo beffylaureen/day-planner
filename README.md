@@ -7,3 +7,4 @@
 ## <img src="./day-planner/assets/Screenshot 2023-07-13 at 5.01.01 PM.png" alt = "Finished Website"/>
 
 ## https://github.com/beffylaureen/day-planner
+## https://beffylaureen.github.io/day-planner/
